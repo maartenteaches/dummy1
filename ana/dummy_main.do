@@ -6,7 +6,7 @@ macro drop _all
 // the ado directory local to this project
 *cd "d:\mijn documenten\onderwijs\konstanz\stata\open_science\dummy\"
 *cd "h:\open_science\dummy\"
-cd "c:\mijn documenten\onderwijs\konstanz\stata\open_science\dummy\ana"
+cd "c:\mijn documenten\onderwijs\konstanz\stata\open_science\dummy_1\ana"
 
 do dummy_ana01.do // descriptives
 do dummy_ana02.do // multivariate
